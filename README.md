@@ -109,7 +109,7 @@ Its interactive design makes it easier to examine performance across different y
 
 ## 👤 Author
 
-**Bebo Magdy**
+**Abdo Magdy**
 
 Aspiring Data Analyst | Business Intelligence | Data Visualization
 
